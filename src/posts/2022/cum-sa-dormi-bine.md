@@ -151,7 +151,7 @@ Realitatea arată însă că nu doar numărul de ore este important, ci și cali
 
 În fapt, e posibil să ai nevoie de mai mult de 8 ore de somn sau de mai puțin.
 
-![Tabel cu necesarul de ore de somn în funcție de vârstă](src/assets/images/gallery/cate-ore-de-somn-sunt-necesare.png)
+![Tabel cu necesarul de ore de somn în funcție de vârstă](assets/images/gallery/cate-ore-de-somn-sunt-necesare.png)
 
 De asemenea, așa cum spuneam mai sus, nu trebuie pierdută din vedere calitatea somnului.
 
