@@ -3,6 +3,7 @@ title: 'Povestea adicției mele pentru un joc video'
 description: 'Cum am scăpat de adicția pentru un joc video și care este cea mai bună soluție ca să reușești și tu.'
 permalink: "/cum-am-scapat-adictie-joc-video/"
 date: 2022-09-09
+tags: ['stare de bine']
 ---
 ![Cum am scăpat de adicția pentru un joc video - imagine din Street Fighter II](/assets/images/gallery/cum-scapi-de-adictia-pentru-jocuri-video.jpg)
 
@@ -193,9 +194,8 @@ Resurse care-ți pot fi de ajutor:
  * [Metoda Hard Reset](https://beldie.ro/hard-reset)
  * [Cum să omori un SMZ](https://beldie.ro/cum-omori-social-media-zombie-smz/)
 
-<strong>Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
 
   <p style="text-align:center;">
       <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
       </p>
-  </article>
