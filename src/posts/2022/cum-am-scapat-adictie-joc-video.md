@@ -60,7 +60,7 @@ Bine, același lucru îl făcea și el, adică la rândul meu trăiam umilința 
 
 Noaptea, după ce închideam ochii pentru a dormi, repetam în minte scene prelungi de luptă. Aș fi putut să desenez în imaginație partide întregi fără niciun fel de problemă, dar n-aș fi fost în stare să spun unde-mi lăsasem echipamentul după ora de sport.
 
-## 3 lucruri demne de menționat:
+### 3 lucruri demne de menționat:
 
  * pentru că nu exista YouTube sau altă sursă care să-ți dezvăluie cum se execută diverse mișcări sau lovituri, trăiam plăcerea anticipării unor descoperiri epocale din acest puct de vedere.
  * am ajuns să joc acest joc prin intermediul unui prieten. Relația cu acesta a făcut și mai facilă apropierea de această activiatea. Rivalitatea și prietenia au fost un liant între mine și joc. Aproape clasic pentru adicții.
@@ -192,3 +192,10 @@ Resurse care-ți pot fi de ajutor:
 
  * Metoda Hard Reset
  * Cum să omori un SMZ
+
+### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
+
+  <p style="text-align:center;">
+      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
+      </p>
+  </article>
