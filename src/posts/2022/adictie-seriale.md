@@ -1,10 +1,11 @@
 ---
-title: 'Cât de periculoasă este adicția pentru seriale'
+title: 'Îndoparea cu seriale'
 description: 'Fiecare serial pe care-l vezi înseamnă niște ore sau zile pierdute. Dincolo de asta, se mai întâmplă și alte lucruri.'
 permalink: "/indoparea-cu-seriale/"
 date: 2022-09-13
 tags: ['stare de bine']
 ---
+
 
 ![Îndoparea cu seriale îți fură bucăți din viață](/assets/images/gallery/indoparea-cu-seriale.jpg)
 
