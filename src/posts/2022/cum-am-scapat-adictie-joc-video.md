@@ -193,7 +193,7 @@ Resurse care-ți pot fi de ajutor:
  * [Metoda Hard Reset](https://beldie.ro/hard-reset)
  * [Cum să omori un SMZ](https://beldie.ro/cum-omori-social-media-zombie-smz/)
 
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
+<strong>Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
 
   <p style="text-align:center;">
       <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
