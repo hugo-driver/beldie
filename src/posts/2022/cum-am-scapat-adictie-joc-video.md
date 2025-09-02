@@ -4,8 +4,7 @@ description: 'Cum am scăpat de adicția pentru un joc video și care este cea m
 permalink: "/cum-am-scapat-adictie-joc-video/"
 date: 2022-09-09
 ---
-![Cum am scăpat de adicția pentru un joc video - imagine din Street Fighter II](/assets/images/gallery/cum-scapi-de-adictia-pentru-jocuri-video.jpg) 'Street Fighter II a fost jocul - pierzanie pentru mine' 
-
+![Cum am scăpat de adicția pentru un joc video - imagine din Street Fighter II](/assets/images/gallery/cum-scapi-de-adictia-pentru-jocuri-video.jpg)
 
 
 Am jucat prima dată spre finalul clasei a VII-a.
