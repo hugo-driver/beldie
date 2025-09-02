@@ -7,6 +7,8 @@ tags: ['stare de bine']
 ---
 ![Tot ce trebuie să știi despre un somn de calitate](/assets/images/gallery/cum-sa-dormi-bine.jpg)
 
+Unele lucruri sunt importante, știm că sunt importante și totuși dăm rateuri când vine vorba de-a le respecta.
+
 De exemplu, alimentația sănătoasă și efortul fizic intră lejer în această categorie.
 
 Asta însă nu ne-mpiedică să mâncăm tot felul de prostii sau să ne mișcăm fundurile doar între canapea și frigider.
