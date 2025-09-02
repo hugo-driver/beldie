@@ -2,7 +2,7 @@
 title: 'De ce e important să începi'
 description: 'Cel mai important lucru este să începi chiar dacă nu e totul perfect aliniat. Nu ai nevoie să aștepți o dată rotundă, ai nevoie doar să începi.'
 permalink: "/actioneaza/"
-date: 2022-09-09
+date: 2022-09-11
 tags: ['simplitate']
 ---
 
@@ -28,7 +28,7 @@ Doar ne place atât de mult să realizăm lucruri la date fixe, să pornim tot f
 
 Mi-l și imaginez în cabina sa de pe Trinidad, privind la hărțile care nu mai puteau să-i ofere nicio informație și spunându-și aceste cuvinte:
 
-“Până pe 1 decembrie trebuie să intru în apele de dincolo de această strâmtoare. Sper doar să nu fi pierdut prea mult timp cu Black Friday furtuna aceasta….”
+> “Până pe 1 decembrie trebuie să intru în apele de dincolo de această strâmtoare. Sper doar să nu fi pierdut prea mult timp cu <s>Black Friday</s> furtuna aceasta….”
 
 Sigur preocupările lui erau altele.
 
@@ -42,26 +42,25 @@ De altfel, majoritatea lucrurilor importante se-ntâmplă în zile care nu sunt 
 
 Lucrurile importante se-ntâmplă în funcție de acțiunile concrete ale oamenilor și rar în funcție de calendar.
 
-Cumva, totul începe la începutul începutului indiferent dacă pleci într-o aventură sau vrei să învingi o adicție.
-
-OK, vreau email-urile tale zilnice!
+Cumva, totul începe la începutul începutului indiferent dacă pleci într-o aventură sau [vrei să învingi o adicție.](https://beldie.ro/cum-am-scapat-adictie-joc-video/)
 
 
-Altădată înseamnă doar amânare
+## Altădată înseamnă doar amânare
 
-Uneori, e bine să amâni lucruri din diverse motive. Totuși, e bine să nu pierzi din vedere sensul cuvântului uneori și să-l transformi în mai mereu.
+
+Uneori, e bine să amâni lucruri din diverse motive. Totuși, e bine să nu pierzi din vedere sensul cuvântului **uneori** și să-l transformi în **mai mereu**.
 
 Altfel, amânarea înseamnă aproape mereu trimiterea succesului spre viitor și aducerea eșecului în prezent.
 
-Am să renunț la zahăr și făinoase de la 1 august!
+> Am să renunț la zahăr și făinoase de la 1 august!
 
 sau
 
-“Am să-mi fac abonament la sală începând cu 1 ianuarie”.
+> “Am să-mi fac abonament la sală începând cu 1 ianuarie”.
 
 sau
 
-“După Sărbători, m-apuc să lucrez pentru o afacere proprie, ca să pot deveni independent financiar și să nu mai depind de vreun angajator”.
+> “După Sărbători, m-apuc să lucrez pentru o afacere proprie, ca să pot deveni independent financiar și să nu mai depind de vreun angajator”.
 
 Genul acesta de angajamente îmi sunt tare cunoscute și mie.
 
@@ -71,7 +70,7 @@ De exemplu, cele mai spectaculoase scheme de amânare le-am produs în vacanțel
 
 Dacă aveam de făcut 150 de probleme dintr-o anumită culegere, mă apucam de calculat:
 
-“Mai sunt încă 60 de zile din vacanță, dacă fac 3 probleme pe zi aș ajunge la 180 de probleme. Cam mult… încep mai bine când mai rămân 50 de zile. Așa pot face câte 3 probleme zilnic și voi ajunge la 150. Super!”
+> “Mai sunt încă 60 de zile din vacanță, dacă fac 3 probleme pe zi aș ajunge la 180 de probleme. Cam mult… încep mai bine când mai rămân 50 de zile. Așa pot face câte 3 probleme zilnic și voi ajunge la 150. Super!”
 
 Începeam peste 10 zile?
 
@@ -83,7 +82,7 @@ Oarecum.
 
 Peste o lună începeam ceva legat de matematică, dar era vorba de noi calcule care să-mi sprijine amânarea:
 
-“Mai am 30 de zile până începe școala, fac 5 probleme pe zi, ajung la 150 și gata!”.
+> “Mai am 30 de zile până începe școala, fac 5 probleme pe zi, ajung la 150 și gata!”.
 
 Mă apucam de treabă?
 
@@ -101,8 +100,7 @@ Alt consum de energie nervoasă, mult mai mare decât cel presupus de rezolvarea
 
 Acest obicei, m-a însoțit mulți ani și pot spune c-am devenit expert în a amâna lucruri care nu mă atrag.
 
-
-Cea mai bună zi să-ncepi e astăzi
+## Cea mai bună zi să-ncepi e astăzi
 
 Automat, în paralel cu obiceiul amânării, am devenit expert și în a identifica cele mai bune date din an pentru a începe diverse lucruri.
 
@@ -122,19 +120,19 @@ Sau, pe 28 noiembrie 2011, fără să fiu sub influența faptului că în urmă 
 
 Bine, nu era chiar din senin.
 
-Pur și simplu, mi-am dat seama că deși câștigam OK de pe urma contractelor pe care le aveam ca ziarist, viitorul meu financiar ar fi fost mai sigur și mai sănătos dacă începeam să produc bani vânzându-mi cunoașterea sub forma a tot felul de produse.
+Pur și simplu, mi-am dat seama că deși câștigam OK de pe urma contractelor pe care le aveam ca ziarist, viitorul meu financiar ar fi fost mai sigur și mai sănătos dacă începeam să produc bani [vânzându-mi cunoașterea sub forma a tot felul de produse](https://shop.beldie.ro/?ref=beldie.ro).
 
 Prin urmare, nu doar că am stat și m-am gândit ce ar trebui să fac pentru ca diversele mele site-uri să-și vândă mai bine produsele, dar am și trecut pe o foaie de hârtie planul la care am ajuns.
 
 În plus, chiar din acea zi, am început să-l pun în aplicare fără să mai caut tot felul de scuze de amânare.
 
-Îmi aduc aminte că una dintre măsurile pe care le-am luat atunci a fost ca abonații Fii bărbat! să primească zilnic pe email ponturi despre seducție.
+Îmi aduc aminte că una dintre măsurile pe care le-am luat atunci a fost ca abonații Fii bărbat! să primească zilnic pe email [ponturi despre seducție](https://fiibarbat.ck.page/abonare-ponturi?ref=beldie.ro).
 
 Zilnic.
 
 Schimbarea a fost atât de dramatică încât imediat s-au văzut rezultatele noii strategii.
 
-Pe de o parte, a fost efectul pe care orice acțiune deșteaptă de email marketing îl provoacă – am vândut mai multe ghiduri.
+Pe de o parte, a fost efectul pe care orice [acțiune deșteaptă de email marketing](https://beldie.ro/cum-sa-vinzi-email-marketing/) îl provoacă – am vândut mai multe ghiduri.
 
 Pe de alta, a fost reacția celor obișnuiți să primească un email la câteva săptămâni, nicidecum zilnic.
 
@@ -146,27 +144,26 @@ Oare fac bine, oare exagerez?
 
 Am făcut bine, iar astăzi pot spune că iubesc scâncetul de dezabonat în lumina dimineții:
 
-
-Nu doar motivația produce acțiune, ci și acțiunea produce motivație
+## Nu doar motivația produce acțiune, ci și acțiunea produce motivație
 
 Deși au trecut ani de la acea zi, mi-aduc aminte clar o grămadă de lucruri, o grămadă de nuanțe.
 
-Când am decis să pun în aplicare planul de-a-mi crește veniturile bazate pe vânzarea propriei mele cunoașteri, nu aveam totul clar în minte.
+Când am decis să pun în aplicare planul de-a-mi crește veniturile bazate pe [vânzarea propriei mele cunoașteri](https://beldie.ro/vinde-cunoasterea-online/), nu aveam totul clar în minte.
 
 De asta am așezat lucrurile pe hârtie. Când scrii, creierul îți devine un pic mai deștept decât atunci când îți lași gândurile să circule fără urmă prin minte.
 
 Gândurile scrise rămân captive pe hârtie, gândurile gândite și-atât își pot pierde urma.
 
-De asta îți recomand să scrii într-un jurnal.
+[De asta îți recomand să scrii într-un jurnal.](https://beldie.ro/jurnal/)
 
 Pe măsură ce-am scris, mi-am pus ordine în minte, dar și-n acțiuni.
 
 Când am terminat planul, am observat că erau multe lucruri de făcut:
 
- * să implementez seria de email-uri zilnice pentru site-urile mele
- * să scriu în avans conținutul pentru aceste email-uri
- * să modific landing page-urile pentru diverse produse
- * să implementez un sistem de plată ușor de folosit de către cumpărători
+*   să implementez seria de email-uri zilnice pentru site-urile mele
+*   să scriu în avans conținutul pentru aceste email-uri
+*   să modific landing page-urile pentru diverse produse
+*   să implementez un sistem de plată ușor de folosit de către cumpărători
 
 Erau atât de multe de făcut încât mă simțeam copleșit.
 
@@ -194,8 +191,7 @@ Doream să implementez plata cu cardul pentru un site și să scot la vânzare u
 
 Venea Crăciunul, veneau Sărbătorile, de ce ar fi fost extaziați să acorde asistență unui client minuscul din portofoliul lor?
 
-
-Frustrările pot fi tare bune dacă le cauți rezolvare
+## Frustrările pot fi tare bune dacă le cauți rezolvare
 
 Oamenii privesc frustrările ca pe ceva profund nociv.
 
@@ -216,3 +212,9 @@ Pentru că dacă nu acționezi, s-ar putea să acumulezi la rândul tău niște 
 Și-ar fi păcat să nu le folosești ca să faci ceea ce nu faci - să acționezi.
 
 Să începi.
+
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
+
+  <p style="text-align:center;">
+      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
+      </p>

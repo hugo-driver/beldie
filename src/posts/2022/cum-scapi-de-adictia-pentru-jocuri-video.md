@@ -24,13 +24,13 @@ Cei care i-au dat viață la începutul anilor '90, CAPCOM, i-au spus Street Fig
 
 Așa cum un drogat mângâie scurt doza înainte de-a și-o injecta, eu mângâiam butoanele și manetele jocului înainte să strig:
 
-"Nea George, o fisă la Street Fighter!".
+>"Nea George, o fisă la Street Fighter!".
 
 Ca mulți dintre români, nea George se temea de curentul din sală și purta de la începutul toamnei până la finalul primăverii o căciulă rusească din blană de iepure.
 
 Deși nu-și lăsa urechile în jos, aveam veșnic impresia că acea căciulă îl împiedică să audă. Așa că strigăm din nou, cu vocea mea aflată în plin proces de maturizare:
 
-"Nea Geooorge...!".
+>"Nea Geooorge...!".
 
 Omul venea grăbit, eu îi dădeam banii și el introducea fisa.
 

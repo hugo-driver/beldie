@@ -153,6 +153,8 @@ Realitatea arată însă că nu doar numărul de ore este important, ci și cali
 
 În fapt, e posibil să ai nevoie de mai mult de 8 ore de somn sau de mai puțin.
 
+![Tot ce trebuie să știi despre un somn de calitate](/posts/2022/cate-ore-de-somn-sunt-necesare.jpg)
+
 De asemenea, așa cum spuneam mai sus, nu trebuie pierdută din vedere calitatea somnului.
 
 Factorii pe care ți i-am prezentat mai sus nu se ocupă doar cu perturbarea orei de somn, ci și cu stricarea calității somnului. Prin urmare, simplu fapt că dormi 8 ore s-ar putea să nu fie suficient dacă ai avut un somn agitat, întrerupt des.
