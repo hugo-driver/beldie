@@ -2,7 +2,7 @@
 title: 'Ce este stoicismul – principii, influență, scurt istoric'
 description: 'Stoicismul este o filozofie veche și pragmatică. Principiile sale sunt ușor de înțeles și îi ajută pe oameni să ducă o viață mai bună.'
 permalink: "/ce-este-stoicismul/"
-date: 2022-09-20
+date: 2025-09-02
 tags: ['stare de bine']
 ---
 

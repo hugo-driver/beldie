@@ -117,7 +117,7 @@ Deși Ally McBeal te poate face să-ți dorești să fii avocat, deși Seinfeld 
 
 Pasiunile presupun acțiune.
 
-[Chiar dacă inițial poate e vorba de acțiuni mărunte.](https://beldie.ro/cum-omori-social-media-zombie-smz/)
+[Chiar dacă inițial poate e vorba de acțiuni mărunte.](https://beldie.ro/standarde-marunte/)
 
 ## Pasiunea e importantă, dar entuziasmul e și mai important
 
