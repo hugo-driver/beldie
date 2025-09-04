@@ -248,7 +248,7 @@ Dincolo de eliminarea factorilor nocivi pe care i-am menționat mai sus, există
  5. culcă-te și trezește-te la aceeași oră chiar și-n zilele-n care nu mergi la muncă. Obișnuința face minuni, iar ogranismul nostru tânjește după automatisme de acest tip
  6. Dacă n-ai dormit suficient în noaptea precedentă, încearcă să te folosești de un așa zis power nap în timpul zilei – 15 până la 20 minute de somn care te vor ajuta să-ți recapeți o parte însemnată din energia pierdută
 
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
   <p style="text-align:center;">
       <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>

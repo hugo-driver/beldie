@@ -176,7 +176,7 @@ Nu sună bine, dar ăsta-i efectul privitului în exces la TV.
 
 Iar dacă-mi vei spune că a urmări seriale pe net nu e privit la TV în exces, dovedești prin propria persoană că Sartori avea dreptate.
 
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
   <p style="text-align:center;">
       <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>

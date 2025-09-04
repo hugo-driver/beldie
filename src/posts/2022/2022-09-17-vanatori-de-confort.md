@@ -129,7 +129,7 @@ Sau să accepți pur și simplu că nu trebuie ca totul să fie perfect.
 
 E ok și imperfecțiunea, mai ales când e vorba de confort.
 
-#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:</strong>
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
   <p style="text-align:center;">
       <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
