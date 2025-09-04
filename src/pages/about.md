@@ -4,7 +4,7 @@ permalink: /about/index.html
 description: 'Site-ul lui Ștefan Beldie despre impactul noilor tehnologii asupra minții tale.'
 layout: page
 ---
-Pixel vs Neuron este un newsletter scris pentru cei care vor să aibă un control mai bun asupra propriei minți. 
+<strong>Pixel vs Neuron</strong> este un newsletter scris pentru cei care vor să aibă un control mai bun asupra propriei minți. 
 
 De ce ai avea nevoie de așa ceva? 
 
