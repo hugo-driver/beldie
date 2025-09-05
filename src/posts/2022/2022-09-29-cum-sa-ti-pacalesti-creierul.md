@@ -1,5 +1,5 @@
 ---
-title: 'De ce e important să ai reguli'
+title: 'Cum să-ți păcălești creierul'
 description: 'Creierul tău nu face diferența între obiceiurile bune și cele proaste. Prin urmare, poți să scapi de apucăturile nocive mai ușor decât crezi.'
 permalink: "/cum-sa-ti-pacalesti-creierul/"
 date: 2022-09-28
