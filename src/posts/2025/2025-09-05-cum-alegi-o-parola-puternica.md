@@ -124,12 +124,6 @@ Concret, Baekdal afirmă că [există parole uşor memorabile](https://www.baekd
 
 ![Cum arată o parolă simplă, dar greu de spart la atacuri](/assets/images/gallery/parola-simpla-greu-de-spart.jpg "Cum arată o parolă simplă, dar greu de spart")
 
-<figcaption>
-
-O parolă simplă, dar greu de spart.
-
-</figcaption>
-
 </figure>
 
 După cum se vede în tabelul de mai sus, o parolă formată din 3 cuvinte obişnuite scrisă cu spaţiu între ele ar putea fi spartă prin metodă verificării cu ajutorul unui script care rulează acest tip de cuvinte în peste 2.500 de ani.
@@ -141,11 +135,6 @@ Tabelul următor preluat de pe site-ul lui Baekdal arată şi cât de vulnerabil
 <figure>
 
 ![Cum arată o parolă ușor de spart la un atac](/assets/images/gallery/parola-usor-de-spart.jpg "Cum arată o parolă ușor de spart")
-<figcaption>
-
-Cum arată o parolă ușor de spart.
-
-</figcaption>
 
 </figure>
 
