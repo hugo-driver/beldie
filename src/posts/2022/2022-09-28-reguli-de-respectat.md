@@ -1,12 +1,11 @@
 ---
-title: 'De ce e important să ai reguli'
+title: 'Fă-ți reguli și respecă-le!'
 description: 'Dacă poți face un lucru bine fără să te grăbești, cel mai probabil aceea e forma naturală de-a face acel lucru. Prin urmare, de ce te-ai grăbi?'
 permalink: "/regula/"
 date: 2022-09-28
 tags: ['stare de bine']
 ---
-
-![Regulă: nu te mai grăbi](/assets/images/gallery/regula-de-negrabire.jpg)
+![Regulă: nu te mai grăbi](/assets/images/gallery/fara-graba.jpg)
 
 Acum mulți ani, am început să-mi scriu niște reguli.
 
@@ -142,4 +141,8 @@ De asta, e important să nu te grăbești.
 
 Nu doar pentru beneficiile lipsei de grabă în foarte multe situații, ci și pentru a te feri de ceea ce nu ești.
 
-**PS**: apropo, dacă vrei să ai puterea de-a respecta regulile pe care ți le stabilești, [**metoda mea te poate ajuta ca nimic altceva**](https://beldie.ro/hard-reset/).
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
+
+  <p style="text-align:center;">
+      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
+      </p>

@@ -340,6 +340,8 @@ Simplu, nu neapărat ușor.
 
 Oricum, merită încercat.
 
-Ai mai multe amănunte legate de cum să ieși din lumea virtuală și să revii în viața reală în acest ghid:
+#### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
 
-[**Cum să omori un Social Media Zombie (SMZ)**](https://beldie.ro/cum-omori-social-media-zombie-smz/)
+  <p style="text-align:center;">
+      <a href="https://beldie.berserkermail.com/join?ref=beldie.ro" class="button" data-button-variant="secondary">OK, vreau email-urile!</a>
+      </p>
