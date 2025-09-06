@@ -12,7 +12,7 @@ tags: ['simplitate']
 
 Unii au pipăit secțiunea din trunchiul de copac care semăna cu o buturugă și prin mintea lor au început să treacă tot felul de gânduri.
 
-Vruh l-a privit pe Gruh și s-a gândit că dacă îl va lovi puternic prin surprindere poate îl va pune la pământ și-i va prelua apoi invenția așa cum o corporație preia un start up
+Vruh l-a privit pe Gruh și s-a gândit că dacă îl va lovi puternic prin surprindere poate îl va pune la pământ și-i va prelua apoi invenția așa cum o corporație preia un start up.
 
 Truh l-a privit pe Gruh și apoi pe Vruh și s-a gândit că cel de-al doilea ar putea să-l lovească prin surprindere pe primul ca să-i fure invenția. Deci ar putea să-și ofere serviciile de gardă de corp. Sau de analist politic.
 
@@ -51,7 +51,7 @@ La o simplă analiză, misiunea lui Mruh 253 este mai dificilă pentru că are f
 
 Pe de altă parte, misiunea sa este ușurată de faptul că trăiește într-o societate care-l inspiră major printr-o mantră aparte:
 
-> "Ce e simplu și dovedit profitabil nu merită atenția ta. Caută lucruri complicate, pentru care costă mult și care sigur îți vor oferi satisfacții mult mai mari".
+> "Ce e simplu și dovedit profitabil nu merită atenția ta. Caută lucruri complicate, care costă mult și care sigur îți vor oferi satisfacții mult mai mari".
 
 Prin urmare, Mruh 253 știe că, undeva-n mintea lui, sigur zace nedescoperită o metodă mult mai bună de îmbunătățire a stării de bine.
 
@@ -63,7 +63,7 @@ Crede în utilitatea tehnologiilor complicate și în desuetudinea lucrurilor ve
 
 Crede exclusiv în tastat și [nu crede în scris de mână](https://beldie.ro/jurnal/).
 
-Crede în mâncare complicată din perspectiva ingredientelor și nu cred în [produse alimentare simple și de bună calitate](https://beldie.ro/lista-cu-mancare-buna/).
+Crede în mâncare complicată din perspectiva ingredientelor și nu crede în [produse alimentare simple și de bună calitate](https://beldie.ro/lista-cu-mancare-buna/).
 
 Crede în acțiuni pornite doar după ce absolut totul este pus la punct cu maximă minuțiozitate, chiar cu riscul de-a nu mai acționat și nu crede în [importanța incredibilă a începutului](https://beldie.ro/actioneaza/).
 
@@ -85,7 +85,7 @@ Nu se strofoacă să găsească metode secrete de a face ceva ce știu deja să 
 
 Urmașii lui Gruh nu suportă să piardă timpul.
 
-Și nu-l pierd, acționează:
+Și nu-l pierd, acționează.
 
 
 #### Cel mai deștept lucru pe care-l poți face acum este să te abonezi la email-urile mele zilnice:
