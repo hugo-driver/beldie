@@ -7,7 +7,7 @@ layout: page
 
 ![Un mail pe zi - cum să vinzi prin email marketing - coperta.](/assets/images/gallery/cum-sa-vinzi-prin-email-marketing.webp)
 
-**Chiar și un leneș care poate vorbi face o grămadă de bani scriind un singur email pe zi** 
+**Chiar și un leneș care poate vorbi face o grămadă de bani scriind un singur email pe zi...** 
 
 De câte ori te-ai gândit c-ar fi timpul să produci niște bani dincolo de salariu?
 
