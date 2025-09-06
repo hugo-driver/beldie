@@ -8,16 +8,6 @@ tags: ['psihomarketing']
 
 ![Cum să lansezi un produs digital în mai puțin de 3 zile](/assets/images/gallery/cum-sa-lansezi-un-produs-digital-in-mai-putin-de-3-zile.jpg)
 
----
-title: 'Lansează primul tău produs digital în mai puțin de 3 zile'
-description: 'Alege ceva cunoști și ar putea fi interesant și pentru alții. Pune acel ceva într-o formă care poate fi vândută. Vinde-l! Explicații pas cu pas.'
-permalink: "/cum-lansezi-produs-digital/"
-date: 2022-12-21
-tags: ['psihomarketing']
----
-
-![Cum să lansezi un produs digital în mai puțin de 3 zile](/assets/images/gallery/cum-sa-lansezi-un-produs-digital-in-mai-putin-de-3-zile.jpg)
-
 Ce prods digital poate fi lansat în doar 3 zile sau chiar în mai puțin timp?
 
 Poate fi orice - ebook, un template de excel (spreadsheet), un mini curs, un video cu instrucțiuni etc.
