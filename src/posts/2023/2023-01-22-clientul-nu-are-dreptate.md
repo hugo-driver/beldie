@@ -1,6 +1,6 @@
 ---
 title: 'Cum să-ți tratezi clienții - amabilitatea nu e secretul'
-description: 'Unii au impresia că dacă-și sărută clienții în zona dorsală, vor face mai mulți bani. Adevărul poate fi diferit și să nu implice pupături.'
+description: 'Unii au impresia că dacă-și sărută clienții în zona posterioară, vor face mai mulți bani. Adevărul poate fi diferit și să nu implice pupături.'
 permalink: "/cum-sa-ti-tratezi-clientii/"
 date: 2023-01-22
 tags: ['psihomarketing']

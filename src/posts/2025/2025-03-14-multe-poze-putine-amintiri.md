@@ -1,6 +1,6 @@
 ---
 title: 'Multe poze, puține amintiri'
-description: 'Z.E.I este un acronim pentru o sintagmă inventată de mine - Zero Ecrane Inutile.'
+description: 'Facem o grămadă de poze, dar avem din ce în ce mai puține amintiri. Uneori, chiar din cauza acelor poze făcute în exces.'
 permalink: "/multe-poze-putine-amintiri/"
 date: 2025-03-13
 tags: ['simplitate']

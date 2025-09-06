@@ -1,6 +1,6 @@
 ---
 title: 'Condiția esențială ca să vinzi cu succes online'
-description: 'Ca să poți vinde un produs, trebuie să-l pui la vânzare. Deși asta pare evident, de prea multe ori oamenii uită acest amănunt banal și esențial.'
+description: 'Ca să poți vinde un produs, trebuie să-l pui la vânzare. Deși asta pare evident, de prea multe ori oamenii uită acest amănunt banal, dar esențial.'
 permalink: "/conditia-esentiala-vinzi-online/"
 date: 2023-12-24
 tags: ['psihomarketing']
