@@ -1,8 +1,10 @@
 ---
-title: 'Cum te ajută acest site'
+title: 3 acțiuni ciudate care te salvează de prostia digitală
 permalink: /3-actiuni-contra-prostiei-digitale/index.html
-description: 'Site-ul lui Ștefan Beldie despre impactul noilor tehnologii asupra minții tale.'
+description: 'Bonusul pentru noii abonați la site-ul beldie.ro.'
 layout: page
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
 ---
 
 Salut,
@@ -11,10 +13,8 @@ Dacă ai ajuns aici, înseamnă că ți-ai confirmat cu succes abonarea la newsl
 
 Prin urmare, poți descărca bonusul pe care ți l-am promis:
 
-https://ln5.sync.com/dl/318c783c0#z6fb5fh3-pmavdve9-9p9633nk-wvrcmmf3
+https://drive.google.com/file/d/1Uq1o3XDmWSNMy4HRfefc-5uoOTSBIAsu/view?usp=sharing
 
 Dacă ai vreo întrebare, dă reply la mail-ul pe care l-ai primit.
 
-Ștefan.
-
-
+Ștefan Beldie.
