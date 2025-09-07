@@ -4,7 +4,7 @@ permalink: /cum-omori-social-media-zombie-smz/
 description: 'Ghidul care te ajută să evadezi din lumea adicțiilor online - Facebook, Instagram, TikTok, YouTube, Netflix etc.'
 layout: page
 ---
-![Cum să omori un Social Media Zombie - coperta](/assets/images/gallery/cum-sa-omori-un-social-nedia-zombie.webp)
+![Cum să omori un Social Media Zombie - coperta](/assets/images/gallery/cum-sa-omori-un-social-media-zombie.webp)
 
 
 Un **Social Media Zombie** sau un **SMZ** este o persoană care renunță la bucăți uriașe din viața reală pentru a "exista" în mediul virtual - Facebook, Instagram, TikTok, Twitter, chiar YouTube etc.

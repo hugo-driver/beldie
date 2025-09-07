@@ -77,7 +77,9 @@ Anumiți producători pot să scadă calitatea produselor sau alți producători
 
 De câte ori se va întâmpla un astfel de lucru, voi modifica lista și tu vei avea acces gratuit la modificările respective atât timp cât lista aceasta va exista.
 
-[Cumpără acum - 79 Euro](https://shop.beldie.ro/buy?link=BlHhD)
+<p style="text-align:center;">
+      <a href="https://shop.beldie.ro/buy?link=BlHhD" class="button" data-button-variant="primary">Cumpără acum - 79 Euro</a>
+      </p>
 
 ## Ce nu primești când cumperi Lista cu mâncare bună
 
